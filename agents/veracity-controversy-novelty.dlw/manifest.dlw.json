@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Veracity · Controversy · Novelty",
+  "universe": "AQR · Veracity · Controversy · Novelty (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Veracity · Controversy · Novelty:AQR:67c930⟧",
+  "carbon": "veracity-controversy-novelty.carbon.tiff (TIFF)",
+  "silicon": "veracity-controversy-novelty.silicon.png (PNG)",
+  "seal_sha256": "100edd914eceeb8fa9993980668cbf26a85f7d87f203423926471b50679a8aee",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

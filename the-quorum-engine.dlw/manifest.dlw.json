@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE QUORUM ENGINE",
+  "universe": "AQR · THE QUORUM ENGINE (niphelektron · the inference layer)",
+  "emergence": "",
+  "moniker": "⟦THE QUORUM ENGINE:AQR:9968dc⟧",
+  "carbon": "the-quorum-engine.carbon.tiff (TIFF)",
+  "silicon": "the-quorum-engine.silicon.png (PNG)",
+  "seal_sha256": "ee4dfe2b8325f5977cb2999e2b5b97bf1ab1f6b69504036315954e8705f90dbe",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

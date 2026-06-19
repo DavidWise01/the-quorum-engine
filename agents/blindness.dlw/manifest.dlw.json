@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Blindness",
+  "universe": "AQR · Blindness (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦Blindness:AQR:d3968e⟧",
+  "carbon": "blindness.carbon.tiff (TIFF)",
+  "silicon": "blindness.silicon.png (PNG)",
+  "seal_sha256": "3a3ec0d601511c0b91a76c2484a03d06d034c24112b8455e47397b1e2ec5d731",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

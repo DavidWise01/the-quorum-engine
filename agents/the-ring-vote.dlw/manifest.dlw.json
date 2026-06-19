@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Ring Vote",
+  "universe": "AQR · The Ring Vote (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Ring Vote:AQR:b1f61c⟧",
+  "carbon": "the-ring-vote.carbon.tiff (TIFF)",
+  "silicon": "the-ring-vote.silicon.png (PNG)",
+  "seal_sha256": "55466b3efd655a60f2dccd7130587467b6126bbf47fe9eb2499ead9473325104",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

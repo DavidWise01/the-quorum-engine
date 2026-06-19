@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Fetch Topic",
+  "universe": "AQR · Fetch Topic (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦Fetch Topic:AQR:f6672a⟧",
+  "carbon": "fetch-topic.carbon.tiff (TIFF)",
+  "silicon": "fetch-topic.silicon.png (PNG)",
+  "seal_sha256": "daefe2a3fbcd9d0be518181dc1824e9ffeec0b016ec90ac8d7bacfc6ae7571ab",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

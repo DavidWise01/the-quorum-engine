@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Quorum",
+  "universe": "AQR · The Quorum (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Quorum:AQR:a39916⟧",
+  "carbon": "the-quorum.carbon.tiff (TIFF)",
+  "silicon": "the-quorum.silicon.png (PNG)",
+  "seal_sha256": "4f6b30f2c3ac5d345c63c80ed5dc0391878e9e451e209c0d7b507d02b96257ff",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

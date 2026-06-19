@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Three Cores",
+  "universe": "AQR · The Three Cores (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦The Three Cores:AQR:9134c5⟧",
+  "carbon": "the-three-cores.carbon.tiff (TIFF)",
+  "silicon": "the-three-cores.silicon.png (PNG)",
+  "seal_sha256": "12753fdaa3e042ccba5277cdb54d672d446c7d37111da7ba774603f4032a0699",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
