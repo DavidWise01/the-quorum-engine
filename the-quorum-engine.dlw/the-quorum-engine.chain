@@ -4,6 +4,6 @@ slug  : the-quorum-engine
 seal  : ee4dfe2b8325f5977cb2999e2b5b97bf1ab1f6b69504036315954e8705f90dbe
 prev  : e7cdc3f704671c4cfec6005ee5112d04734841bf27dc03ec7ab79977481334f3
 link  : 8abcf4b0ce0cc178e89ea1d3ef50cb04c363a15b75d655aa4f3a21057cec8259
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
